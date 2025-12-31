@@ -96,7 +96,10 @@ li {
 
 
 /* Main Section Styling */
+.hero-section {
 
+    min-height: calc(100vh - 14vh);
+}
 
 
 
