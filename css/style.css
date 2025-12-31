@@ -89,7 +89,12 @@ li {
 
 }
 .mobile-menu {
-    display: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    position: absolute;
 }
 /* Main Section Styling */
 
